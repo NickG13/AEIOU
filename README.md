@@ -23,7 +23,9 @@ A version for people who wants to maintain all the usual shortcuts (ZXCV). Be ad
 
 ## Install
 (Windows version in progress...)
-[AEIOU Mac install.zip](https://github.com/NickG13/AEIOU/files/6834843/AEIOU.Mac.install.zip)
+
+[AEIOU for Mac.zip](https://github.com/NickG13/AEIOU/files/6834910/AEIOU.for.Mac.zip)
+
 
 To install it on Mac, you only need to download the .zip file, unzip it and execute the .bundle and then restart your Mac. Then, you should be able to change the keyboard layout by going to Preferencias del sistema>Teclado>Fuentes de entrada, clicking "+" and selecting your layout under spanish language.
 

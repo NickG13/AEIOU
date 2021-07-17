@@ -5,7 +5,7 @@ First keyboard layout 100% made for spanish language, made by the professional s
 
 It also works with catalan, basque... and all kind of spanish dialects. 
 
-There's two versions:
+There's two versions (all of them x1000 times better than qwerty):
 
 ## AEIOU v1.0
 ![](https://preview.redd.it/tjxi8xiyrqb71.png?width=306&format=png&auto=webp&s=15b5b05aaccaeedaec03f1bcc3c7bc1a9e9ade4c)

@@ -1,5 +1,5 @@
 # AEIOU
-First keyboard layout 100% made for spanish language. Just type and discover how easy is it to type now 
+First keyboard layout 100% made for spanish language, made by the professional typist Nick Gutiérrez. Just type and discover how easy is it to type now 
 
 It also works with catalan, basque... and other spanish dialects. 
 

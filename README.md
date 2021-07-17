@@ -30,3 +30,10 @@ To install it on Mac, you only need to download the .zip file, unzip it and exec
 This layout has been made following all the requirements of a good layout, following both Engram and Colemak keyboard layout building instructions, and using several keyboard analyzers (not only one) as well as the tips and review of expert builders.
 
 Here is a [description with all the process](https://www.reddit.com/r/KeyboardLayouts/comments/oja9oh/why_are_there_no_spanish_layouts/).
+
+## Special thanks to:
+- **Miguel Guzmán.** I started researching this layout with him. He also gave me a lot of good tips and ideas, and he deserves some credit. 
+- Colemak community: Specially DreymaR for his expert help, also to Renato and CTGAP.
+- Subreddit r/KeyboardLayouts: Where I've find a lot of people who has the same rare taste that I have. A lot of people helped in the process.
+- [HIEAMTSRN project](https://github.com/dns/Keyboard-HIEAMTSRN-Optimized): The new layout started as a variant of this one, but evolved into something very different. 
+- [KLAnext analyzer](https://klanext.keyboard-design.com/): Which was the most useful tool I've come across to analyze keyboard layouts, even though I've used a few.

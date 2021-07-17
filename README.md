@@ -10,14 +10,14 @@ The AEIOU name is based in the fact that all vowels are only on one side of the 
 There's two versions (all of them x1000 times better than qwerty):
 
 ## AEIOU v1.1
-![AEIOU](https://user-images.githubusercontent.com/12291843/126040231-2b4a7f37-d686-41f0-aab0-49ba815c88f0.png)
-
+![AEIOU](https://user-images.githubusercontent.com/12291843/126040348-baa265d3-faf6-4b23-9530-f7a674c44fd6.png)
 
 
 The main version. You can make Ctrl+C only with right Ctrl, which can be a problem, but you will be more comfortable while typing.
 
 ## AEIOU zxcv v1.0
-![](https://preview.redd.it/zxr6bha0sqb71.png?width=302&format=png&auto=webp&s=f86f6dc422812cfe2fe60fd0984670e61b698af5)
+![AEIOU zxcv](https://user-images.githubusercontent.com/12291843/126040353-1f3feb68-f27a-4396-ae38-3f02417b4e74.png)
+
 
 A version for people who wants to maintain all the usual shortcuts (ZXCV). Be advised you will write slower and with less comfort.
 

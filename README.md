@@ -10,7 +10,8 @@ The AEIOU name is based in the fact that all vowels are only on one side of the 
 There's two versions (both of them are better than qwerty, but I personally prefer the first one):
 
 ## AEIOU v1.1
-![AEIOU](https://user-images.githubusercontent.com/12291843/126040348-baa265d3-faf6-4b23-9530-f7a674c44fd6.png)
+[AEIOU Mac install.zip](https://github.com/NickG13/AEIOU/files/6834945/AEIOU.Mac.install.zip)
+
 
 
 The main version. You can make Ctrl+C only with right Ctrl, which can be a problem, but you will be more comfortable while typing.

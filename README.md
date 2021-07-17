@@ -3,7 +3,7 @@ First keyboard layout 100% made for spanish language, made by the professional s
 
 **Why did I made a fully optimized spanish layout?** 
 
-*I just discovered there wasn't a single specialized layout in my language, and since I work all day long typing in spanish, it seemed logical to look for a solution myself on my free time. I've asked help and tips to experts and keyboard layout specialists and analysts, who made some of the best layouts in the world for the english language: Colemak, Engram... and finally, I'm here with a solution.*
+*I just discovered there wasn't a single specialized layout in my language, and since I work all day long typing in spanish, it seemed logical to look for a solution myself on my free time. Since I'm only a writer and a psychologist obsessed with productivity, I've asked help and tips to experts and keyboard layout specialists and analysts, who made some of the best layouts in the world for the english language: Colemak, Engram... and finally, I'm here with a solution.*
 
 The AEIOU name is based in the fact that all vowels are only on one side of the keyboard. It also resembles the easyness of typing with this keyboard layout once you practice for a few days. 
 

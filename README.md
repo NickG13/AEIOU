@@ -15,7 +15,7 @@ The main version. You can make Ctrl+C only with right Ctrl, which can be a probl
 ## AEIOU zxcv v1.0
 ![](https://preview.redd.it/zxr6bha0sqb71.png?width=302&format=png&auto=webp&s=f86f6dc422812cfe2fe60fd0984670e61b698af5)
 
-A version for people who wants to maintain all the usual shortcuts (ZXCV).
+A version for people who wants to maintain all the usual shortcuts (ZXCV). Be advised you will write slower and with less comfort.
 
 ## Install
 (Windows version in progress...)

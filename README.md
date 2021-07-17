@@ -5,6 +5,8 @@ First keyboard layout 100% made for spanish language, made by the professional s
 
 It also works with catalan, basque... and all kind of spanish dialects. 
 
+The AEIOU name is based in the fact that all vowels are only on one side of the keyboard. It also resembles the easyness of typing with this keyboard layout once you practice for a few days. 
+
 There's two versions (all of them x1000 times better than qwerty):
 
 ## AEIOU v1.0
@@ -24,5 +26,6 @@ A version for people who wants to maintain all the usual shortcuts (ZXCV). Be ad
 
 To install it on Mac, you only need to download the .zip file, unzip it and execute the .bundle . Then, you should be able to change the keyboard layout by going to Preferencias del sistema>Teclado>Fuentes de entrada, clicking "+" and selecting your layout under spanish language.
 
-This layout has been made following all the requirements of a good layout, following both Engram and Colemak instructions and using several keyboard analyzers (not only one).
+This layout has been made following all the requirements of a good layout, following both Engram and Colemak keyboard layout building instructions, and using several keyboard analyzers (not only one) as well as the tips and review of expert builders.
+
 Here is a [description with all the process](https://www.reddit.com/r/KeyboardLayouts/comments/oja9oh/why_are_there_no_spanish_layouts/).

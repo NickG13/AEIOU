@@ -10,7 +10,8 @@ The AEIOU name is based in the fact that all vowels are only on one side of the 
 There's two versions (all of them x1000 times better than qwerty):
 
 ## AEIOU v1.0
-![](https://preview.redd.it/tjxi8xiyrqb71.png?width=306&format=png&auto=webp&s=15b5b05aaccaeedaec03f1bcc3c7bc1a9e9ade4c)
+![AEIOU](https://user-images.githubusercontent.com/12291843/126035680-37429e44-d10d-461d-93da-356ff8a70c4c.png)
+
 
 The main version. You can make Ctrl+C only with right Ctrl, which can be a problem, but you will be more comfortable while typing.
 

@@ -1,7 +1,7 @@
 # AEIOU
 First keyboard layout 100% made for spanish language, made by the professional spanish typist **Nick Gutiérrez**. 
 
-*I just discovered there wasn't a single specialized layout in my language, and since I work all day long typing in spanish, it seemed logical to look for a solution myself on my free time.*
+*I just discovered there wasn't a single specialized layout in my language, and since I work all day long typing in spanish, it seemed logical to look for a solution myself on my free time. I've asked help and tips to experts and keyboard layout specialists and analysts, who made some of the best layouts in the world for the english language: Colemak, Engram... and finally, I'm here with a solution.*
 
 It also works with catalan, basque... and all kind of spanish dialects. 
 

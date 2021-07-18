@@ -10,9 +10,7 @@ The AEIOU name is based in the fact that all vowels are only on one side of the 
 There's two versions (both of them are better than qwerty, but I personally prefer the first one):
 
 ## AEIOU v1.1
-[AEIOU Mac install.zip](https://github.com/NickG13/AEIOU/files/6834945/AEIOU.Mac.install.zip)
-
-
+![](https://preview.redd.it/cagebgjecsb71.png?width=754&format=png&auto=webp&s=2a9bb0d315cb0ea2eff8c23655fdc7f3080fb0c7)
 
 The main version. You can make Ctrl+C only with right Ctrl, which can be a problem, but you will be more comfortable while typing.
 
@@ -25,8 +23,7 @@ A version for people who wants to maintain all the usual shortcuts (ZXCV). Be ad
 ## Install
 (Windows version in progress...)
 
-[AEIOU for Mac.zip](https://github.com/NickG13/AEIOU/files/6834910/AEIOU.for.Mac.zip)
-
+[AEIOU Mac install.zip](https://github.com/NickG13/AEIOU/files/6834945/AEIOU.Mac.install.zip)
 
 To install it on Mac, you only need to download the .zip file, unzip it and execute the .bundle and then restart your Mac. Then, you should be able to change the keyboard layout by going to Preferencias del sistema>Teclado>Fuentes de entrada, clicking "+" and selecting your layout under spanish language.
 

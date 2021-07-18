@@ -21,7 +21,9 @@ The main version. You can make Ctrl+C only with right Ctrl, which can be a probl
 A version for people who wants to maintain all the usual shortcuts (ZXCV). Be advised you will write slower and with less comfort.
 
 ## Install
-(Windows version in progress...)
+
+[AEIOU Windows install.zip](https://github.com/NickG13/AEIOU/files/6835793/AEIOU.Windows.install.zip)
+
 
 [AEIOU Mac install.zip](https://github.com/NickG13/AEIOU/files/6834945/AEIOU.Mac.install.zip)
 

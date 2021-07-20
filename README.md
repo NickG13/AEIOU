@@ -1,4 +1,4 @@
-# AEIOU
+# AEIOU v1.1
 First keyboard layout 100% made for spanish language, created by the professional spanish typist **Nick Gutiérrez**, with the help of Colemak and Engram authors, also with the support and tips of the keyboard layout community. It also works with catalan, basque... and all kind of spanish dialects. 
 
 If you encounter any bug or mistake, be sure to leave feedback and I will surely check it out.
@@ -11,12 +11,12 @@ The AEIOU name is based in the fact that all vowels are only on one side of the 
 
 There's two versions (both of them are better than qwerty, but I personally prefer the first one):
 
-## AEIOU v1.1
+## AEIOU
 ![](https://preview.redd.it/cagebgjecsb71.png?width=754&format=png&auto=webp&s=2a9bb0d315cb0ea2eff8c23655fdc7f3080fb0c7)
 
 The main version. You can make Ctrl+C only with right Ctrl, which can be a problem, but you will be more comfortable while typing.
 
-## AEIOU zxcv v1.0
+## AEIOU zxcv 
 ![AEIOU zxcv](https://user-images.githubusercontent.com/12291843/126040353-1f3feb68-f27a-4396-ae38-3f02417b4e74.png)
 
 
@@ -34,6 +34,17 @@ To install it on Mac, you only need to download the .zip file, unzip it and exec
 This layout has been made following all the requirements of a good layout, following both Engram and Colemak keyboard layout building instructions, and using several keyboard analyzers (not only one) as well as the tips and review of expert builders.
 
 Here is a [description with all the process](https://www.reddit.com/r/KeyboardLayouts/comments/oja9oh/why_are_there_no_spanish_layouts/).
+
+## Changelog
+- 1.0: Initial release
+- 1.1: Minor adjustments to make it functionable
+
+
+- Upcoming: 
+  - Big changes in punctuation system and key rearrangements (testing a few methods and possibilities)
+  - Adaptability for ANSI keyboards
+  - Coder's alternative
+
 
 ## Special thanks to:
 - **Miguel Guzmán.** I started researching this layout with him. He also gave me a lot of good tips and ideas, and he deserves some credit. 

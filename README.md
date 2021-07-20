@@ -37,7 +37,7 @@ Here is a [description with all the process](https://www.reddit.com/r/KeyboardLa
 
 ## Changelog
 - 1.0: Initial release
-- 1.1: Minor adjustments to make it functionable
+- 1.1: Big bugs solving (thanks for your feedback)
 
 
 - Upcoming: 

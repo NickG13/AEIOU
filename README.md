@@ -1,3 +1,4 @@
+# (This is a experimental layout, a WIP, so use it only for testing, since it will eventually change)
 # AEIOU v1.1
 First keyboard layout 100% made for spanish language, created by the professional spanish typist **Nick Gutiérrez**, with the help of Colemak and Engram authors, also with the support and tips of the keyboard layout community. It also works with catalan, basque... and all kind of spanish dialects. 
 

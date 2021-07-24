@@ -51,8 +51,8 @@ Here is a [description with all the process](https://www.reddit.com/r/KeyboardLa
 
 ## Special thanks to:
 - **Miguel Guzmán.** I started researching a spanish layout with him. He gave me a lot of good tips, feedback and some tech background, so he deserves some credit for this layout. 
-- Thank you for your feedback: Aurora Muñoz, David Ibañez, Alberto Gómez, Maria Lloveras, Victor Núñez, Francisco Núñez, Alberto Ibañez.
 - Colemak community: Specially DreymaR for his expert help, also to Renato and CTGAP.
 - Subreddit r/KeyboardLayouts: Where I've find a lot of people who has the same rare taste that I have. A lot of people helped in the process. Specially [u/iandoug](https://www.reddit.com/user/iandoug) for his tips and his awesome tool KLAnext.
 - [HIEAMTSRN project](https://github.com/dns/Keyboard-HIEAMTSRN-Optimized): The new layout started as a variant of this one, but evolved into something very different. 
 - [KLAnext analyzer](https://klanext.keyboard-design.com/): Which was the most useful tool I've come across to analyze keyboard layouts, even though I've used a few.
+- Thank you for your feedback: Aurora Muñoz, David Ibañez, Alberto Gómez, Maria Lloveras, Victor Núñez, Francisco Núñez, Alberto Ibañez.

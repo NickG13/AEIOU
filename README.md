@@ -14,6 +14,7 @@ The AEIOU is made to be:
 - **Ergonomical**: You will feel like you almost don't move your fingers from home row to write most words. 
 - **For everyone**: It doesn't matter which kind of keyboard you have, even ANSI keyboards have their own version (spanish typers were limited to ISO only keyboards), so you can buy whatever strange mechanical keyboard you stumble upon without any hesitation. 
 - **More intuitive**: In qwerty, you have to push two separate buttons to create questions, which begin with _¿_ and end with _?_. In this layout you will naturally write better, because almost all questions will begin with capital letters and the shift key will activate opening punctuations (both for **¿?**, **¡!** and **()** ).
+- **Numbers away!**: We don't usually use the numpad to write numbers. Even though, I have a 60% and I know there's a need of numbers in the main keyboard, so I made punctuation more accessible and put numbers in the third layer.
 
 This is a keyboard layout inspired by the following layouts:
 - **Dvorak**: The idea of using the most common letters to create an optimized layout.

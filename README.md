@@ -16,11 +16,11 @@ The AEIOU is made to be:
 - More intuitive: In qwerty, you have to push two separate buttons to create questions, which begin with _¿_ and end with _?_. In this layout you will naturally write better, because almost all questions will begin with capital letters and the shift key will activate opening punctuations (both for **¿?**, **¡!** and **()** ).
 
 This is a keyboard layout inspired by the following layouts:
-- Dvorak
-- Colemak
-- BÉPO
-- Engram
-- HIEAMTSRN
+- Dvorak: The idea of using the most common letters to create an optimized layout.
+- Colemak: General guidelines given by the author and variants.
+- BÉPO: The french idea of adding accented characters, which indeed are very common.
+- Engram: The idea of adding punctuation in the middle of the home row, which is pretty efficient due to high frecuency on **,** and **.** in spanish
+- HIEAMTSRN: The base layout where all the ideas were implemented and tested
 
 When you install it on Mac (the Windows 1.3 version should be valid for both), there's two versions, depending on which kind of keyboard you have: ISO or ANSI. 
 - **ISO**: This is the usual layout on european countries keyboards. The extra key is **ü**, which is one of the less typed letters in spanish, and can be also made with alt+ú or by ¨+u

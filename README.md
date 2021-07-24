@@ -38,7 +38,7 @@ AEIOU v1.1. Windows install.zip](https://github.com/NickG13/AEIOU/files/6835793/
 
 To install it on Mac, you only need to download the .zip file, unzip it and execute the .bundle and then restart your Mac. Then, you should be able to change the keyboard layout by going to Preferencias del sistema>Teclado>Fuentes de entrada, clicking "+" and selecting your layout under spanish language.
 
-This layout has been made following all the requirements of a good layout, following both Engram and Colemak keyboard layout building instructions, and using several keyboard analyzers (not only one) as well as the tips and review of expert builders.
+This layout has been made following all the requirements of a good layout, following both Engram and Colemak keyboard layout building criteria, and using several keyboard analyzers (not only one) as well as the tips and review of expert builders.
 
 Here is a [description with all the process](https://www.reddit.com/r/KeyboardLayouts/comments/oja9oh/why_are_there_no_spanish_layouts/).
 

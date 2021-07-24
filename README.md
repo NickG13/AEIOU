@@ -43,6 +43,13 @@ This layout has been made following all the requirements of a good layout, follo
 
 Here is a [description with all the process](https://www.reddit.com/r/KeyboardLayouts/comments/oja9oh/why_are_there_no_spanish_layouts/).
 
+## Learning
+I would recommend to learn touch typing to any writer. If you don't touch type with all your fingers, be sure to positionate your fingers on the home row and reach each key from there. 
+
+Learning a new layout is usually a long process. If you want to master this layout as soon as posible, I recommend you to have an on-screen keyboard picture that will guide you were all letters are. Every OS has inbuilt this option. For example, in Windows you can open "Teclado de pantalla" or "On-screen keyboard".
+
+To practice, I recommend https://monkeytype.com/ which is an awesome website with random spanish text. There's a huge variety of options online.
+
 ## Changelog
 - 1.0: Initial release
 - 1.1: Big bug solving (thanks for your feedback)

@@ -9,7 +9,7 @@ If you encounter any bug or mistake, be sure to leave feedback.
 
 The AEIOU name is based in the fact that all vowels are only on one side of the keyboard. It also resembles the easyness of typing with this keyboard layout once you practice for a few days. Indeed, I could achieve 20 wpm just in the first bunch of tests (without memorization of keys), which is faster than most other layout's beginning.
 
-The AEIOU is made to be:
+## AEIOU main features
 - **Faster typing**: Efficient and optimized for writing most frequent spanish words, with less finger traveling, avoiding same finger bigrams.
 - **Ergonomical**: You will feel like you almost don't move your fingers from home row to write most words. 
 - **For everyone**: It doesn't matter which kind of keyboard you have, even ANSI keyboards have their own version (spanish typers were limited to ISO only keyboards), so you can buy whatever strange mechanical keyboard you stumble upon without any hesitation. 

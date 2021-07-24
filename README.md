@@ -13,6 +13,7 @@ The AEIOU is made to be:
 - **Faster typing**: Efficient and optimized for writing most frequent spanish words, with less finger traveling, avoiding same finger bigrams.
 - **Ergonomical**: You will feel like you almost don't move your fingers from home row to write most words. 
 - **For everyone**: It doesn't matter which kind of keyboard you have, even ANSI keyboards have their own version (spanish typers were limited to ISO only keyboards), so you can buy whatever strange mechanical keyboard you stumble upon without any hesitation. 
+- More intuitive: In qwerty, you have to push two separate buttons to create questions, which begin with _¿_ and end with _?_. In this layout you will naturally write better, because almost all questions will begin with capital letters and the shift key will activate opening punctuations (both for **¿?**, **¡!** and **()** ).
 
 This is a keyboard layout inspired by the following layouts:
 - Dvorak

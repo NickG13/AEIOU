@@ -32,8 +32,8 @@ When you install it on Mac (the Windows 1.3 version should be valid for both), t
 
 
 ## Install
- (version 1.3. coming soon) [
-AEIOU v1.1. Windows install.zip](https://github.com/NickG13/AEIOU/files/6835793/AEIOU.Windows.install.zip)
+[AEIOU v1.3 for Windows.zip](https://github.com/NickG13/AEIOU/files/6872380/AEIOU.v1.3.for.Windows.zip)
+
 
 [AEIOUv1.3 Mac install.zip](https://github.com/NickG13/AEIOU/files/6872138/AEIOUv1.3.Mac.install.zip)
 

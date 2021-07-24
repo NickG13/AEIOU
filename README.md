@@ -51,11 +51,11 @@ Here is a [description with all the process](https://www.reddit.com/r/KeyboardLa
 - 1.0: Initial release
 - 1.1: Big bug solving (thanks for your feedback)
 - 1.2: Inclusion of special characters and change in punctuation placing
-- 1.3: BIG changes in punctuation. AEIOU zxcv is erased due to priorization of efficiency and there's two new versions of the keyboard: AEIOU ISO and AEIOU ANSI, now you can type in spanish with any keyboard!
+- 1.3: BIG changes in punctuation and layout optimization. AEIOU zxcv is erased due to priorization of efficiency and there's two new versions of the keyboard: AEIOU ISO and AEIOU ANSI, now you can type in spanish with any keyboard!
 
 ## Special thanks to:
 - **Miguel Guzmán.** I started researching a spanish layout with him. He gave me a lot of good tips, feedback and some tech background, so he deserves some credit for this layout. 
-- David Ibañez, Aurora Muñoz, Alberto Gómez, Maria Lloveras, Victor Núñez, Francisco Núñez, Alberto Ibañez: Thank you for your feedback
+- Thank you for your feedback: Aurora Muñoz, David Ibañez, Alberto Gómez, Maria Lloveras, Victor Núñez, Francisco Núñez, Alberto Ibañez.
 - Colemak community: Specially DreymaR for his expert help, also to Renato and CTGAP.
 - Subreddit r/KeyboardLayouts: Where I've find a lot of people who has the same rare taste that I have. A lot of people helped in the process. Specially [u/iandoug](https://www.reddit.com/user/iandoug) for his tips and his awesome tool KLAnext.
 - [HIEAMTSRN project](https://github.com/dns/Keyboard-HIEAMTSRN-Optimized): The new layout started as a variant of this one, but evolved into something very different. 

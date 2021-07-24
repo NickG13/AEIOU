@@ -22,16 +22,10 @@ This is a keyboard layout inspired by the following layouts:
 - HIEAMTSRN
 
 When you install it on Mac (the Windows 1.3 version should be valid for both), there's two versions, depending on which kind of keyboard you have: ISO or ANSI. 
-- **ISO**: This is the usual layout on european countries keyboards
-- **ANSI**: This is the usual layout for american countries keyboards
+- **ISO**: This is the usual layout on european countries keyboards. The extra key is **ü**, which is one of the less typed letters in spanish, and can be also made with alt+ú.
+- **ANSI**: This is the usual layout for american countries keyboards, one key less. 
 
-
-## AEIOU ISO
-![](https://preview.redd.it/cagebgjecsb71.png?width=754&format=png&auto=webp&s=2a9bb0d315cb0ea2eff8c23655fdc7f3080fb0c7)
-
-
-## AEIOU ANSI 
-![AEIOU zxcv](https://user-images.githubusercontent.com/12291843/126040353-1f3feb68-f27a-4396-ae38-3f02417b4e74.png)
+![AEIOU](https://user-images.githubusercontent.com/12291843/126864058-a34532de-e585-414d-8b9e-759b2c90934e.png)
 
 
 

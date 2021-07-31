@@ -50,6 +50,8 @@ Learning a new layout is usually a long process. If you want to master this layo
 
 To practice, I recommend https://monkeytype.com/ which is an awesome website with random spanish text. There's a huge variety of options online.
 
+If you want a course, you can always test and train your muscle memory on https://type-fu.com/. You will only need files for adding spanish words and your custom layout (in preferences, choose new custom keyboard/words and import file. You have all needed files here: [AEIOU training TypeFu.zip](https://github.com/NickG13/AEIOU/files/6910757/AEIOU.training.TypeFu.zip)
+
 ## Changelog
 - 1.0: Initial release
 - 1.1: Big bug solving (thanks for your feedback)

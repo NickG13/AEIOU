@@ -27,6 +27,7 @@ When you install it on Mac (the Windows 1.3 version should be valid for both), t
 - **ISO**: This is the usual layout on european countries keyboards. The extra key is **ü**, which is one of the less typed letters in spanish, and can be also made with alt+ú or by ¨+u
 - **ANSI**: This is the usual layout for american countries keyboards, one key less. 
 
+Capture of AEIOU v. 1.3
 ![AEIOU](https://user-images.githubusercontent.com/12291843/126864058-a34532de-e585-414d-8b9e-759b2c90934e.png)
 
 

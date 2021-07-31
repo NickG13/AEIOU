@@ -58,7 +58,7 @@ If you want a course, you can always test and train your muscle memory on https:
 - 1.1: Big bug solving (thanks for your feedback)
 - 1.2: Inclusion of special characters and change in punctuation placing
 - 1.3: BIG changes in punctuation and layout optimization. AEIOU zxcv is erased due to priorization of efficiency and there's two new versions of the keyboard: AEIOU ISO and AEIOU ANSI, now you can type in spanish with any keyboard!
-- 1.4: After some tests and feedback we are disabling clone symbols, windows version fixed and also changed K for Z, ¡more comfortable typing experience!
+- 1.4: After some tests and feedback we are disabling duplicated symbols on alt+shift layout. Windows version fixed (it wasn't updated) and also changed K for Z, ¡more comfortable typing experience!
 
 ## Special thanks to:
 - **Miguel Guzmán.** I started researching a spanish layout with him. He gave me a lot of good tips, feedback and some tech background, so he deserves some credit for this layout. 

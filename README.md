@@ -32,7 +32,8 @@ When you install it on Mac (the Windows 1.3 version should be valid for both), t
 
 
 ## Install
-[AEIOU v1.3 for Windows.zip](https://github.com/NickG13/AEIOU/files/6872380/AEIOU.v1.3.for.Windows.zip)
+[aeiou14 for Windows.zip](https://github.com/NickG13/AEIOU/files/6910804/aeiou14.for.Windows.zip)
+
 
 
 [AEIOUv1.3 Mac install.zip](https://github.com/NickG13/AEIOU/files/6872138/AEIOUv1.3.Mac.install.zip)
@@ -57,6 +58,7 @@ If you want a course, you can always test and train your muscle memory on https:
 - 1.1: Big bug solving (thanks for your feedback)
 - 1.2: Inclusion of special characters and change in punctuation placing
 - 1.3: BIG changes in punctuation and layout optimization. AEIOU zxcv is erased due to priorization of efficiency and there's two new versions of the keyboard: AEIOU ISO and AEIOU ANSI, now you can type in spanish with any keyboard!
+- 1.4: After some tests and feedback we are disabling clone symbols, windows version fixed and also changed K for Z, ¡more comfortable typing experience!
 
 ## Special thanks to:
 - **Miguel Guzmán.** I started researching a spanish layout with him. He gave me a lot of good tips, feedback and some tech background, so he deserves some credit for this layout. 

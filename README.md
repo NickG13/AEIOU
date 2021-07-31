@@ -24,19 +24,21 @@ This is a keyboard layout inspired by the following layouts:
 - **HIEAMTSRN**: The base layout where all the ideas were implemented and tested
 
 When you install it on Mac (the Windows 1.3 version should be valid for both), there's two versions, depending on which kind of keyboard you have: ISO or ANSI. 
-- **ISO**: This is the usual layout on european countries keyboards. The extra key is **ü**, which is one of the less typed letters in spanish, and can be also made with alt+ú or by ¨+u
-- **ANSI**: This is the usual layout for american countries keyboards, one key less. 
 
-Capture of AEIOU v. 1.3
+## AEIOU ISO
+This is the usual layout on european countries keyboards. The extra key is **ü**, which is one of the less typed letters in spanish, and can be also made with alt+ú or by ¨+u
 
-![AEIOU](https://user-images.githubusercontent.com/12291843/126864058-a34532de-e585-414d-8b9e-759b2c90934e.png)
+![image](https://user-images.githubusercontent.com/12291843/127733430-8f7018d1-d10f-4397-bacc-758297f42460.png)
+
+## AEIOU ANSI
+This is the usual layout for american countries keyboards, one key less. 
+
+![image](https://user-images.githubusercontent.com/12291843/127733458-1b58336e-ec1b-4586-832c-2dda03d26dfe.png)
 
 
 
 ## Install
 [aeiou14 for Windows.zip](https://github.com/NickG13/AEIOU/files/6910804/aeiou14.for.Windows.zip)
-
-
 
 [AEIOUv1.3 Mac install.zip](https://github.com/NickG13/AEIOU/files/6872138/AEIOUv1.3.Mac.install.zip)
 

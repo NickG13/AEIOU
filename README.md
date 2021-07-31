@@ -9,7 +9,7 @@ If you encounter any bug or mistake, be sure to leave feedback.
 
 The AEIOU name is based in the fact that all vowels are only on one side of the keyboard. It also resembles the easyness of typing with this keyboard layout once you practice for a few days. Indeed, I could achieve 20 wpm just in the first bunch of tests (without memorization of keys), which is faster than most other layout's beginning.
 
-## AEIOU main features
+## Main features
 - **Faster typing**: Efficient and optimized for writing most frequent spanish words, with less finger traveling, avoiding same finger bigrams.
 - **Ergonomical**: You will feel like you almost don't move your fingers from home row to write most words. 
 - **For everyone**: It doesn't matter which kind of keyboard you have, even ANSI keyboards have their own version (spanish typers were limited to ISO only keyboards), so you can buy whatever strange mechanical keyboard you stumble upon without any hesitation. 
@@ -25,12 +25,12 @@ This is a keyboard layout inspired by the following layouts:
 
 When you install it on Mac (the Windows 1.3 version should be valid for both), there's two versions, depending on which kind of keyboard you have: ISO or ANSI. 
 
-## AEIOU ISO
+### ISO
 This is the usual layout on european countries keyboards. The extra key is **ü**, which is one of the less typed letters in spanish, and can be also made with alt+ú or by ¨+u
 
 ![image](https://user-images.githubusercontent.com/12291843/127733430-8f7018d1-d10f-4397-bacc-758297f42460.png)
 
-## AEIOU ANSI
+### ANSI
 This is the usual layout for american countries keyboards, one key less. 
 
 ![image](https://user-images.githubusercontent.com/12291843/127733458-1b58336e-ec1b-4586-832c-2dda03d26dfe.png)

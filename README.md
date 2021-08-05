@@ -40,11 +40,9 @@ This is the usual layout for american countries keyboards, one key less.
 
 ## Install
 
-(version 1.5. currently in testing...)
-
 [aeiou15 for Windows.zip](https://github.com/NickG13/AEIOU/files/6938525/aeiou15.for.Windows.zip)
 
-
+(version 1.5. currently in testing...)
 [AEIOUv1.4 Mac install.zip](https://github.com/NickG13/AEIOU/files/6910932/AEIOUv1.4.Mac.install.zip)
 
 
@@ -61,7 +59,8 @@ Learning a new layout is usually a long process. If you want to master this layo
 
 To practice, I recommend https://monkeytype.com/ which is an awesome website with random spanish text. There's a huge variety of options online.
 
-If you want a course, you can always test and train your muscle memory on https://type-fu.com/. You will only need files for adding spanish words and your custom layout (in preferences, choose new custom keyboard/words and import file. You have all needed files here: [AEIOU TypeFu pack.zip](https://github.com/NickG13/AEIOU/files/6910875/AEIOU.TypeFu.pack.zip)
+If you want a course, you can always test and train your muscle memory on https://type-fu.com/. You will only need files for adding spanish words and your custom layout (in preferences, choose new custom keyboard/words and import file. You have all needed files here: [AEIOU training TypeFu v1.5.zip](https://github.com/NickG13/AEIOU/files/6938611/AEIOU.training.TypeFu.v1.5.zip)
+
 
 ## Changelog
 - 1.0: Initial release

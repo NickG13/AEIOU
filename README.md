@@ -1,4 +1,4 @@
-# AEIOU v1.4
+# AEIOU v1.5
 First keyboard layout 100% made for spanish language, created by **Nick Gutiérrez** with help of veteran authors of popular keyboard layouts and the feedback of real users. It also works with catalan, basque... and all kind of spanish dialects. 
 
 If you encounter any bug or mistake, be sure to leave feedback.
@@ -64,6 +64,9 @@ If you want a course, you can always test and train your muscle memory on https:
 - 1.2: Inclusion of special characters and change in punctuation placing
 - 1.3: BIG changes in punctuation and layout optimization. AEIOU zxcv is erased due to priorization of efficiency and there's two new versions of the keyboard: AEIOU ISO and AEIOU ANSI, now you can type in spanish with any keyboard!
 - 1.4: After some tests and feedback we are disabling duplicated symbols on alt+shift layout. Windows version fixed (it wasn't updated) and also changed K for Z, ¡more comfortable typing experience!
+- 1.5: Important changes:
+  - There have been some feedback regarding E and O being too near and giving a poor typing experience. After some research and testing, we have made a little change that will be significative. In order to make the keyboard more efficient and avoid common mistakes while typing, I've swapped E by A (and É/Á) for a better learning experience. It will give some distance with O, which was often confused by E in some words (it happened to me, too). In analysis of the new variation, it also gave a less bigram frequency, so it's a Win-win!
+  - After listening to some personal feedback, when you click "Bloq Mayus" now you are activating *number mode*, so it's a second option for people that didn't liked the ctrl+alt layer, which can be painful to use in ANSI. In other words, we made the layout even more compatible with all keyboards!
 
 ## Special thanks to:
 - **Miguel Guzmán.** I started researching a spanish layout with him. He gave me a lot of good tips, feedback and some tech background, so he deserves some credit for this layout. 

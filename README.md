@@ -14,7 +14,7 @@ The AEIOU name is based in the fact that all vowels are only on one side of the 
 - **Ergonomical**: You will feel like you almost don't move your fingers from home row to write most words. 
 - **For everyone**: It doesn't matter which kind of keyboard you have, even ANSI keyboards have their own version (spanish typers were limited to ISO only keyboards), so you can buy whatever strange mechanical keyboard you stumble upon without any hesitation. 
 - **More intuitive**: In qwerty, you have to push two separate buttons to create questions, which begin with _¿_ and end with _?_. In this layout you will naturally write better, because almost all questions will begin with capital letters and the shift key will activate opening punctuations (both for **¿?**, **¡!** and **()** ).
-- **Numbers away!**: When most writers write, they don't put numbers, but if they do they mostly use the numpad. Even though, I have a 60% and I know there's a need for numbers in the main keyboard, so I made punctuation more accessible and put numbers in the third layer instead.
+- **Numbers away!**: When most writers write, they don't put numbers, but if they do they mostly use the numpad. Even though, I have a 60% and I know there's a need for numbers in the main keyboard, so I made punctuation more accessible and put numbers in the third layer instead ¡You can put numbers with Bloq Mayus now!
 
 This is a keyboard layout inspired by the following layouts:
 - **Dvorak**: The idea of using the most common letters to create an optimized layout.
@@ -28,12 +28,13 @@ When you install it on Mac (the Windows 1.3 version should be valid for both), t
 ### ISO
 This is the usual layout on european countries keyboards. The extra key is **ü**, which is one of the less typed letters in spanish, and can be also made with alt+ú or by ¨+u
 
-![image](https://user-images.githubusercontent.com/12291843/127733430-8f7018d1-d10f-4397-bacc-758297f42460.png)
+![image](https://user-images.githubusercontent.com/12291843/128342742-3ad85304-6ea4-4dc5-a73d-8a0db365132f.png)
+
 
 ### ANSI
 This is the usual layout for american countries keyboards, one key less. 
 
-![image](https://user-images.githubusercontent.com/12291843/127733458-1b58336e-ec1b-4586-832c-2dda03d26dfe.png)
+![image](https://user-images.githubusercontent.com/12291843/128342854-f222666b-209c-4988-9c3d-3312781f4195.png)
 
 
 

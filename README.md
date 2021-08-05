@@ -39,6 +39,9 @@ This is the usual layout for american countries keyboards, one key less.
 
 
 ## Install
+
+(version 1.5. currently in testing...)
+
 [aeiou14 for Windows.zip](https://github.com/NickG13/AEIOU/files/6910804/aeiou14.for.Windows.zip)
 
 [AEIOUv1.4 Mac install.zip](https://github.com/NickG13/AEIOU/files/6910932/AEIOUv1.4.Mac.install.zip)

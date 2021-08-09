@@ -1,5 +1,5 @@
 # AEIOU v1.5
-First keyboard layout 100% made for spanish language, created by **Nick Gutiérrez** with help of veteran authors of popular keyboard layouts and the feedback of real users. It also works with catalan, basque... and all kind of spanish dialects. 
+First keyboard layout 100% made for spanish language, created by **Nick Gutiérrez** with help of veteran authors of popular keyboard layouts and the feedback of real users. It also works with catalan, basque... and all kind of spanish dialects. It's a work in progress.
 
 If you encounter any bug or mistake, be sure to leave feedback.
 

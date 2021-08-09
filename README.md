@@ -42,8 +42,8 @@ This is the usual layout for american countries keyboards, one key less.
 
 [aeiou15 for Windows.zip](https://github.com/NickG13/AEIOU/files/6938525/aeiou15.for.Windows.zip)
 
-(version 1.5. currently in testing...)
-[AEIOUv1.4 Mac install.zip](https://github.com/NickG13/AEIOU/files/6910932/AEIOUv1.4.Mac.install.zip)
+[AEIOUv1.5 Mac install.zip](https://github.com/NickG13/AEIOU/files/6953590/AEIOUv1.5.Mac.install.zip)
+
 
 
 To install it on Mac, you only need to download the .zip file, unzip it and execute the .bundle and then restart your Mac. Then, you should be able to change the keyboard layout by going to Preferencias del sistema>Teclado>Fuentes de entrada, clicking "+" and selecting your layout under spanish language.

@@ -41,10 +41,10 @@ This is the usual layout for american countries keyboards, one key less.
 
 ## Install
 
-[aeiou151.zip](https://github.com/NickG13/AEIOU/files/6986701/aeiou151.zip)
+Windows Install: [aeiou151.zip](https://github.com/NickG13/AEIOU/files/6986701/aeiou151.zip)
 
 (Mac 1.5.1. in process)
-[AEIOUv1.5 Mac install.zip](https://github.com/NickG13/AEIOU/files/6953590/AEIOUv1.5.Mac.install.zip)
+Mac Install: [AEIOUv1.5 Mac install.zip](https://github.com/NickG13/AEIOU/files/6953590/AEIOUv1.5.Mac.install.zip)
 
 To install it on Mac, you only need to download the .zip file, unzip it and execute the .bundle and then restart your Mac. Then, you should be able to change the keyboard layout by going to Preferencias del sistema>Teclado>Fuentes de entrada, clicking "+" and selecting your layout under spanish language.
 

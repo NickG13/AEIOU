@@ -1,4 +1,7 @@
-# AEIOU v1.5
+# AEIOU v1.5.1
+
+Here's [an article explaining all the process](https://tecladoenllamas.com/teclado-aeiou/) (in spanish)
+
 First keyboard layout 100% made for spanish language, created by **Nick Gutiérrez** with help of veteran authors of popular keyboard layouts and the feedback of real users. It also works with catalan, basque... and all kind of spanish dialects. It's a work in progress.
 
 If you encounter any bug or mistake, be sure to leave feedback.
@@ -28,23 +31,20 @@ When you install it on Mac (the Windows 1.3 version should be valid for both), t
 ### ISO
 This is the usual layout on european countries keyboards. The extra key is **ü**, which is one of the less typed letters in spanish, and can be also made with alt+ú or by ¨+u
 
-![image](https://user-images.githubusercontent.com/12291843/128342742-3ad85304-6ea4-4dc5-a73d-8a0db365132f.png)
-
+![image](https://user-images.githubusercontent.com/12291843/129450933-2b996ed3-0005-4c5d-b2e8-47eb1a90f64b.png)
 
 ### ANSI
 This is the usual layout for american countries keyboards, one key less. 
 
-![image](https://user-images.githubusercontent.com/12291843/128342854-f222666b-209c-4988-9c3d-3312781f4195.png)
-
+![image](https://user-images.githubusercontent.com/12291843/129450962-1664c2f9-0478-48e9-be38-88952724ad2a.png)
 
 
 ## Install
 
-[aeiou15 for Windows.zip](https://github.com/NickG13/AEIOU/files/6938525/aeiou15.for.Windows.zip)
+[aeiou151.zip](https://github.com/NickG13/AEIOU/files/6986701/aeiou151.zip)
 
+(Mac 1.5.1. in process)
 [AEIOUv1.5 Mac install.zip](https://github.com/NickG13/AEIOU/files/6953590/AEIOUv1.5.Mac.install.zip)
-
-
 
 To install it on Mac, you only need to download the .zip file, unzip it and execute the .bundle and then restart your Mac. Then, you should be able to change the keyboard layout by going to Preferencias del sistema>Teclado>Fuentes de entrada, clicking "+" and selecting your layout under spanish language.
 
@@ -59,7 +59,7 @@ Learning a new layout is usually a long process. If you want to master this layo
 
 To practice, I recommend https://monkeytype.com/ which is an awesome website with random spanish text. There's a huge variety of options online.
 
-If you want a course, you can always test and train your muscle memory on https://type-fu.com/. You will only need files for adding spanish words and your custom layout (in preferences, choose new custom keyboard/words and import file. You have all needed files here: [AEIOU training TypeFu v1.5.zip](https://github.com/NickG13/AEIOU/files/6938611/AEIOU.training.TypeFu.v1.5.zip)
+If you want a course, you can always test and train your muscle memory on https://type-fu.com/. You will only need files for adding spanish words and your custom layout (in preferences, choose new custom keyboard/words and import file. You have all needed files here: [AEIOU 1.5.1 TypeFu.zip](https://github.com/NickG13/AEIOU/files/6986713/AEIOU.1.5.1.TypeFu.zip)
 
 
 ## Changelog
@@ -71,6 +71,7 @@ If you want a course, you can always test and train your muscle memory on https:
 - 1.5: Important changes:
   - There have been some feedback regarding E and O being too near and giving a poor typing experience. After some research and testing, we have made a little change that will be significative. In order to make the keyboard more efficient and avoid common mistakes while typing, I've swapped E by A (and É/Á) for a better learning experience. It will give some distance with O, which was often confused by E in some words (it happened to me, too). In analysis of the new variation, it also gave a less same-finger bigram frequency, so it's a Win-win!
   - After listening to some personal feedback, when you click "Bloq Mayus" now you are activating *number mode*, so it's a second option for people that didn't liked the ctrl+alt layer, which can be painful to use in ANSI. In other words, we made the layout even more compatible with all keyboards!
+- 1.5.1: Micro changes: Making the layout more accesible for catalan language by putting characters with open accent on the key dedicated for them (on third layer) and adding Ç behind Ñ key (special for his language). Also a minus change in number row ¡Thanks for your feedback, Miguel! 
 
 ## Special thanks to:
 - **Miguel Guzmán.** I started researching a spanish layout with him. He gave me a lot of good tips, feedback and some tech background, so he deserves some credit for this layout. 

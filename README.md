@@ -62,6 +62,11 @@ To practice, I recommend https://monkeytype.com/ which is an awesome website wit
 
 If you want a course, you can always test and train your muscle memory on https://type-fu.com/. You will only need files for adding spanish words and your custom layout (in preferences, choose new custom keyboard/words and import file. You have all needed files here: [AEIOU 1.5.1 TypeFu.zip](https://github.com/NickG13/AEIOU/files/6986713/AEIOU.1.5.1.TypeFu.zip)
 
+## TecladoEnLlamas
+I decided to mix Engram-ES with AEIOU features. It's called "Teclado En Llamas", regarding a blog I've created related to freelance writing in spanish.
+![image](https://user-images.githubusercontent.com/12291843/170884394-7dc1c47d-b550-4ec0-a4e3-bc7a342ea447.png)
+
+
 
 ## Changelog
 - 1.0: Initial release
@@ -73,6 +78,7 @@ If you want a course, you can always test and train your muscle memory on https:
   - There have been some feedback regarding E and O being too near and giving a poor typing experience. After some research and testing, we have made a little change that will be significative. In order to make the keyboard more efficient and avoid common mistakes while typing, I've swapped E by A (and É/Á) for a better learning experience. It will give some distance with O, which was often confused by E in some words (it happened to me, too). In analysis of the new variation, it also gave a less same-finger bigram frequency, so it's a Win-win!
   - After listening to some personal feedback, when you click "Bloq Mayus" now you are activating *number mode*, so it's a second option for people that didn't liked the ctrl+alt layer, which can be painful to use in ANSI. In other words, we made the layout even more compatible with all keyboards!
 - 1.5.1: Micro changes: Making the layout more accesible for catalan language by putting characters with open accent on the key dedicated for them (on third layer) and adding Ç behind Ñ key (special for his language). Also a minus change in number row ¡Thanks for your feedback, Miguel! 
+- Added TecladoEnLlamas variant
 
 ## Special thanks to:
 - **Miguel Guzmán.** I started researching a spanish layout with him. He gave me a lot of good tips, feedback and some tech background, so he deserves some credit for this layout. 
